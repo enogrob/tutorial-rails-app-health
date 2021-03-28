@@ -16,7 +16,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 ## Topics
 ```
 [X] A Quick Healthcheck
-[ ] Monitoring Your App
+[x] Monitoring Your App
 [ ] Looking for Code Smells
 [ ] Securing Your App and its Dependencies
 [ ] Coding Standards and Best Practice
